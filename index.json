@@ -1,0 +1,11 @@
+{
+  "org": "modal-labs",
+  "repo": "vhost",
+  "versions": [
+    {
+      "commit": "e50f1d8ae24378932229d2d884c7d2ecf72cd2e8",
+      "tag": "modal-vhost-2026-09-22",
+      "parsed_at": "2026-11-08T09:05:20.426449+00:00"
+    }
+  ]
+}
