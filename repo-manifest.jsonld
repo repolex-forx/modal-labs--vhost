@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modal-labs/vhost/commit/e50f1d8ae24378932229d2d884c7d2ecf72cd2e8",
       "git:hexsha": "e50f1d8ae24378932229d2d884c7d2ecf72cd2e8",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "modal-vhost-2026-09-22"
     }
   ]
